@@ -16,5 +16,6 @@
   gender-related KPIs, and identified root causes for gender balance issues at the executive 
   management level, highlighting a commitment to data-driven decision-making.
 
-![204-2048479_pwc-logo-png](https://github.com/user-attachments/assets/d5d06520-53b5-4dca-8ea2-d2e4c160b93a)
+![Screenshot 2025-03-29 155047](https://github.com/user-attachments/assets/d82a2854-26a5-4ad0-a2c3-d2da44e7575c)
+
 
