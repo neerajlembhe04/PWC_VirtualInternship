@@ -15,3 +15,6 @@
 - Leveraged analytical problem-solving skills to examine HR data, particularly focusing on 
   gender-related KPIs, and identified root causes for gender balance issues at the executive 
   management level, highlighting a commitment to data-driven decision-making.
+
+![204-2048479_pwc-logo-png](https://github.com/user-attachments/assets/d5d06520-53b5-4dca-8ea2-d2e4c160b93a)
+
