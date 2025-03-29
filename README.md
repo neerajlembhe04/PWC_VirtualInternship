@@ -2,15 +2,15 @@
 # Power	BI	Job	Simulation
 - As part of this internship created POWERBI dashboards for 3 problem statements
 
--  1] PS1:
+ 1] PS1:
 -
 -
 -
 
-- 2] PS2:
+ 2] PS2:
 -
 -
 
-- 3] PS3:
+ 3] PS3:
 - 
 -
